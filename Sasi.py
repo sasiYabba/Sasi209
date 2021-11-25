@@ -160,6 +160,8 @@ logo = """
 
 -----------------------------------------------
 
+logo = """
+Sasiya
 \033[1;93m AUTHOR: Syam Shah
 
 \033[1;93m Facebook:Syam Shah
