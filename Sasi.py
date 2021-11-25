@@ -174,11 +174,11 @@ logo = """
 
 
 Sasiya
-\033[1;93m AUTHOR: Syam Shah
+\033[1;93m AUTHOR: 🅂🄰🅂🄸🅈🄰
 
-\033[1;93m Facebook:Syam Shah
+\033[1;93m whastapp:+94725269631
 
-\033[1;93m Fb Page:SYAM
+\033[1;93m Fb Page:Python sasi
 
 \033[1;91m-----------------------------------------------                           
 
@@ -268,7 +268,7 @@ def main_select():
 
  
 
-        os.system("https://www.facebook.com/Syam.king07")
+        os.system("https://www.facebook.com/sasindu.hacke")
 
  
 
@@ -430,7 +430,7 @@ def login_select():
 
  
 
-	    os.system("https://www.facebook.com/Syam.king07")
+	    os.system("https://www.facebook.com/sasindu.hacke")
 
 	
 
@@ -472,7 +472,7 @@ def login_select():
 
  
 
-        os.system("https://www.facebook.com/Syam.king07")
+        os.system("https://www.facebook.com/sasindu.hacke")
 
  
 
@@ -1042,7 +1042,7 @@ def menu_select():
 
  
 
-		            print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass1+"\x1b[1;0m")
+		            print("\x1b[1;97m[Sasi OK] "+uid+" = "+pass1+"\x1b[1;0m")
 
  
 
@@ -1110,7 +1110,7 @@ def menu_select():
 
  
 
-		                    print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass2+"\x1b[1;0m")
+		                    print("\x1b[1;97m[Sasi OK] "+uid+" = "+pass2+"\x1b[1;0m")
 
  
 
